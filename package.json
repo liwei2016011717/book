@@ -1,0 +1,23 @@
+{
+  "name": "book",
+  "version": "1.0.0",
+  "description": "电子书",
+  "main": "index.js",
+  scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liwei2016011717/book.git"
+  },
+  "author": "liwei2016011717",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liwei2016011717/book/issues"
+  },
+  "homepage": "https://github.com/liwei2016011717/book#readme"
+  "devDependencies": {
+      "gitbook-cli": "^2.3.2"
+   }
+
+}
